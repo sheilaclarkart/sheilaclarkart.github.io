@@ -1,0 +1,20 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  background-color: #3e4644;
+}
+
+.page-header {
+  color: #fff;
+  text-align: center;
+  background-color: #6c7880;
+  background-image: linear-gradient(120deg, #7c7662, #6c7880);
+}
+
+#pixlee_container {
+  background-color: #313737;
+  padding: 1em;
+}

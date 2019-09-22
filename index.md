@@ -4,7 +4,7 @@
 
 layout: default
 ---
-HELLO!
 
 <div id="pixlee_container"></div><script type="text/javascript">window.PixleeAsyncInit = function() {Pixlee.init({apiKey:'H24UWd9PGhntPmTZP1pE'});Pixlee.addSimpleWidget({widgetId:'21520'});};</script><script src="//instafeed.assets.pixlee.com/assets/pixlee_widget_1_0_0.js"></script>
+
 
